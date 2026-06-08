@@ -216,6 +216,15 @@ sudo so-ip-update
 | Domain 4 — Communication & Network Security | Network traffic capture, promiscuous mode monitoring, NSM architecture |
 | Domain 7 — Security Operations | SIEM deployment, log aggregation, service validation, monitoring platform operation |
 
+## Screenshots Index
+
+| Filename | Content |
+|----------|---------|
+| `so-web-login.png` | Security Onion web interface login page showing SO branding |
+| `so-status.png` | Terminal output of `sudo so-status` showing all services running |
+| `so-traffic-validation.png` | SO web dashboard showing lab network traffic from 10.0.1.x addresses |
+| `zeek-conn-log.png` | Terminal showing `tail -f conn.log` with live connection entries from Kali |
+
 ---
 
 *Next: [Attack & Detect — Metasploitable](../attack-and-detect/metasploitable-detection/README.md)*
